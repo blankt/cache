@@ -1,0 +1,14 @@
+.DS_Store
+go.sum
+.cache
+.vscode
+public/admin/
+*.log
+*.zip
+/session
+adm/
+data/
+__debug_bin
+*.test
+.idea/
+*.exe
